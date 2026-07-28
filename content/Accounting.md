@@ -4,7 +4,7 @@ tags: [erp, modul, accounting]
 
 # 📚 Akuntansi (Accounting)
 
-⬅️ [[Home]]
+⬅️ [[index]]
 
 ## Ringkasan
 Modul pencatatan akuntansi resmi perusahaan — bagan akun, jurnal, aset tetap & penyusutan, hingga laporan keuangan. Modul ini menjadi "muara" dari hampir semua transaksi di modul-modul lain.

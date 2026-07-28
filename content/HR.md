@@ -4,7 +4,7 @@ tags: [erp, modul, hr]
 
 # 👥 HR (Human Resources)
 
-⬅️ [[Home]]
+⬅️ [[index]]
 
 ## Ringkasan
 Modul HR mengelola presensi (kehadiran) karyawan, jadwal shift, hingga proses penggajian (payroll) secara terintegrasi.

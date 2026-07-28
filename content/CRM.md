@@ -4,7 +4,7 @@ tags: [erp, modul, crm]
 
 # 🤝 CRM (Customer Relationship Management)
 
-⬅️ [[Home]]
+⬅️ [[index]]
 
 ## Ringkasan
 Modul untuk tim sales mencatat aktivitas kunjungan ke pelanggan, biaya operasional sales, dan pelacakan target/progres sales.

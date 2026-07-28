@@ -4,7 +4,7 @@ tags: [erp, modul, dashboard]
 
 # 📊 Dashboard
 
-⬅️ [[Home]]
+⬅️ [[index]]
 
 ## Ringkasan
 Halaman pertama yang tampil setelah login. Menampilkan ringkasan data penting (ikhtisar penjualan, stok, kehadiran, dll — tergantung konfigurasi) sebagai titik awal pemantauan bisnis harian.

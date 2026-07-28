@@ -4,7 +4,7 @@ tags: [erp, modul, finance]
 
 # 💵 Keuangan (Finance)
 
-⬅️ [[Home]]
+⬅️ [[index]]
 
 ## Ringkasan
 Modul untuk mencatat pergerakan kas perusahaan — penerimaan kas, pengeluaran kas, dan transfer antar rekening/kas.

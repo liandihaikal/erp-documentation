@@ -4,7 +4,7 @@ tags: [erp, modul, procurement]
 
 # 🛒 Pengadaan (Procurement)
 
-⬅️ [[Home]]
+⬅️ [[index]]
 
 ## Ringkasan
 Modul yang mengatur seluruh siklus pembelian barang/jasa — dari perencanaan, permintaan pembelian, order ke vendor, penerimaan barang, hingga pembayaran ke vendor (siklus **Procure-to-Pay**).

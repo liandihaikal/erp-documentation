@@ -4,7 +4,7 @@ tags: [erp, modul, sales]
 
 # 💰 Penjualan (Sales)
 
-⬅️ [[Home]]
+⬅️ [[index]]
 
 ## Ringkasan
 Modul yang mengatur siklus penjualan — dari penawaran harga ke customer, order penjualan, pengeluaran barang, pengiriman, hingga penagihan & pembayaran dari customer (siklus **Order-to-Cash**).

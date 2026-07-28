@@ -4,7 +4,7 @@ tags: [erp, modul, inventory]
 
 # 📦 Inventaris (Inventory)
 
-⬅️ [[Home]]
+⬅️ [[index]]
 
 ## Ringkasan
 Modul untuk memantau dan mengelola pergerakan serta penyesuaian stok barang di semua lokasi/gudang, plus laporan stok.

@@ -4,7 +4,7 @@ tags: [erp, modul, approval]
 
 # ✅ Permintaan Persetujuan (Approval Request)
 
-⬅️ [[Home]]
+⬅️ [[index]]
 
 ## Ringkasan
 Pusat notifikasi dan pemrosesan semua permintaan persetujuan (approval) yang butuh tindakan user — misalnya persetujuan Purchase Request, Purchase Order, cuti karyawan, atau dokumen lain yang alurnya diatur lewat **Workflow** (lihat [[Settings#Approval Workflow|Settings > Approval]]).

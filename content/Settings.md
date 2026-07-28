@@ -4,7 +4,7 @@ tags: [erp, modul, settings]
 
 # ⚙️ Pengaturan (Settings)
 
-⬅️ [[Home]]
+⬅️ [[index]]
 
 ## Ringkasan
 Modul administrasi sistem — mengatur data referensi umum, alur approval (workflow), hak akses user & role, serta pengaturan umum aplikasi. Modul ini biasanya hanya diakses oleh Admin/IT.

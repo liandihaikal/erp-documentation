@@ -4,7 +4,7 @@ tags: [erp, modul, master-data]
 
 # 🗄️ Master Data
 
-⬅️ [[Home]]
+⬅️ [[index]]
 
 ## Ringkasan
 Modul ini berisi **semua data dasar/referensi** yang dipakai oleh modul-modul transaksi lain (Procurement, Sales, Inventory, dll). Modul ini wajib diisi lebih dulu sebelum modul transaksi bisa digunakan dengan benar.

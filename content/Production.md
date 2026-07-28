@@ -4,7 +4,7 @@ tags: [erp, modul, production]
 
 # 🏭 Produksi (Production)
 
-⬅️ [[Home]]
+⬅️ [[index]]
 
 ## Ringkasan
 Modul untuk mengelola proses produksi/manufaktur — dari definisi proses & bahan baku, perintah kerja produksi, hingga hasil produk jadi masuk ke stok.

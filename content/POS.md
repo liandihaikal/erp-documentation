@@ -4,7 +4,7 @@ tags: [erp, modul, pos]
 
 # 🧾 POS (Point of Sale)
 
-⬅️ [[Home]]
+⬅️ [[index]]
 
 ## Ringkasan
 Modul untuk operasional kasir di outlet: mengatur shift kasir dan layout meja (untuk bisnis resto/kafe).

@@ -4,7 +4,7 @@ tags: [erp, modul, content]
 
 # 🖥️ Content
 
-⬅️ [[Home]]
+⬅️ [[index]]
 
 ## Ringkasan
 Modul untuk mengelola konten yang ditampilkan ke publik/pelanggan, misalnya halaman website, kategori halaman, dan slide/banner promosi.
